@@ -1,0 +1,23 @@
+{
+  "name": "fast_eats",
+  "version": "1.0.0",
+  "description": "fastcampus eats web, app coding study",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seonghojung/fast_eats.git"
+  },
+  "author": "Seongho Jung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seonghojung/fast_eats/issues"
+  },
+  "homepage": "https://github.com/seonghojung/fast_eats#readme",
+  "scripts": {
+    "start": "npx nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid4": "^2.0.2"
+  }
+}
